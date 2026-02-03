@@ -20,8 +20,6 @@ The dashboard in this repo is a read-only operational view. It surfaces agent st
 
 ## Philosophy
 
-- **No custody.** The system coordinates and observes; it does not hold or move user assets.
-- **Observability over hype.** The dashboard focuses on status, executions, and verification—not PnL or trading narrative.
 - **Tables over cards.** Dense, scannable data for operators.
 - **Calm, infra tone.** Serious tooling for serious use cases.
 
@@ -81,3 +79,4 @@ Run the app locally and open `/dashboard` to explore. All data is mock; no backe
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
