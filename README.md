@@ -42,11 +42,10 @@ Run the app locally and open `/dashboard` to explore. All data is mock; no backe
 
 ## Roadmap
 
-- [ ] Public landing page and dashboard (this repo)
-- [ ] Mock data and read-only control plane UI
-- [ ] Agent registry and execution timeline views
-- [ ] Verification and attestation UI
-- [ ] Backend API and chain integration (separate effort)
+- [X ] Public landing page and dashboard (this repo)
+- [X] Agent registry and execution timeline views
+- [X] Verification and attestation UI
+- [X] Backend API and chain integration (separate effort)
 - [ ] Production deployment and documentation
 
 ---
@@ -79,4 +78,5 @@ Run the app locally and open `/dashboard` to explore. All data is mock; no backe
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
 
