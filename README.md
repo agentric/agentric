@@ -1,5 +1,8 @@
 # Agentric
 
+agentric.xyz
+@agentricsol
+
 **Agentric** is an open-source, developer-first framework and control plane for secure, non-custodial execution of on-chain agents.
 
 This repository is the **open-source control plane** (landing page and dashboard) for Agentric. It provides a public-facing entry point and an operational view over agent execution, verification, and configuration—without custody of user funds or private keys.
@@ -78,5 +81,6 @@ Run the app locally and open `/dashboard` to explore. All data is mock; no backe
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
 
 
